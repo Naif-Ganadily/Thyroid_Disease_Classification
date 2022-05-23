@@ -1,19 +1,19 @@
-# Thyroid_Disease_Classififcation
+# Thyroid_Disease_Classification
 This study attempts to classify a person with Thyroid Disease.
 
 Requirements (in Progress)
-Pandas
-Matplotlib
-Seaborn
+* Pandas
+* Matplotlib
+* Seaborn
 
 Installation 
-coming soon
+* Coming Soon
 
 Author
-Naif Ganadily
+* Naif Ganadily
 
 Credits
-EMMANUEL F. WERR
+* EMMANUEL F. WERR
 (https://www.kaggle.com/datasets/emmanuelfwerr/thyroid-disease-data)
-UCI Machine Learning Repository
-https://archive.ics.uci.edu/ml/datasets/thyroid+disease
+* UCI Machine Learning Repository
+(https://archive.ics.uci.edu/ml/datasets/thyroid+disease)
