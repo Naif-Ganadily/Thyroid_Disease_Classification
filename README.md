@@ -1,6 +1,9 @@
 # Thyroid_Disease_Classification
 This study attempts to classify a person with Thyroid Disease.
 
+Changing the Dataset due to my gap in knowledge in dealing with Big Data Sets
+
+
 Requirements (in Progress)
 * Pandas
 * Matplotlib
